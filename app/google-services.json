@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48587250736",
+    "firebase_url": "https://firbasewithimagess.firebaseio.com",
+    "project_id": "firbasewithimagess",
+    "storage_bucket": "firbasewithimagess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48587250736:android:215def548dd3ec727921f5",
+        "android_client_info": {
+          "package_name": "com.example.firbasewithimagess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48587250736-v5qe9m4hgovv6looh00j95mgblpv0t4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCvduP_PU7tKFlr2Os02ug00Pe7j4kA7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48587250736-v5qe9m4hgovv6looh00j95mgblpv0t4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
